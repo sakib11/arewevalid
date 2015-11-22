@@ -9,23 +9,19 @@
 areweValid depends on jQuery. Include them both in end of your HTML code:
 ```html
 <script src="jquery.js" type="text/javascript"></script>
-<script src="jquery.areweValid.min.js" type="text/javascript"></script>
+<script src="arewevalid.min.js" type="text/javascript"></script>
 ```
 And add css file in your `<head>`
 
 ```html
-<link rel="stylesheet" type="text/css" href="jquery.areweValid.css"/>
+<link rel="stylesheet" type="text/css" href="arewevalid.css"/>
 ```
 
 CDN
 
 CDN hosted areweValid is a great way to get set up quickly:
 
-In your `<head>` add:
-```html
-<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/ev.css"/>
-```
-Then, before your closing `<body>` tag add:
+Before your closing `<body>` tag add:
 ```html
 <script type="text/javascript" src="//cdn.jsdelivr.net/ev.js"></script>
 ```
@@ -35,13 +31,11 @@ Package Managers
 //Bower
 bower install --save areweValid
 
-//NPM
-npm install areweValid
 ```
 
 ####Initializing
 
-There are many data attributes in areweValid for different levels of customization.But you must add two of them to make a input element work with areweValid.Consider the following code snippet:
+There are many data attributes in arewevalid for different levels of customization.But you must add two of them to make a input element work with arewevalid.Consider the following code snippet:
 
 ```html
 <form method="get">
