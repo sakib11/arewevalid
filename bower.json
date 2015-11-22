@@ -1,0 +1,26 @@
+{
+  "name": "arewevalid",
+  "version": "1.0.0",
+  "description": "The most tiny and easy to use jquery form validation plugin!!!",
+  "main": "dist/arewevalid.min.js,dist/arewevalid.css",
+  "keywords": [
+    "form",
+    "validation",
+    "form",
+    "jquery",
+    "easy",
+    "tiny"
+  ],
+  "authors": [
+    "sakib"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/sakib11/arewevalid",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
