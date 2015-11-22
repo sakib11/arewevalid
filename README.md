@@ -29,7 +29,7 @@ Before your closing `<body>` tag add:
 Package Managers
 ```
 //Bower
-bower install --save areweValid
+bower install --save arewevalid
 
 ```
 
