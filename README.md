@@ -17,15 +17,6 @@ And add css file in your `<head>`
 <link rel="stylesheet" type="text/css" href="arewevalid.css"/>
 ```
 
-CDN
-
-CDN hosted areweValid is a great way to get set up quickly:
-
-Before your closing `<body>` tag add:
-```html
-<script type="text/javascript" src="//cdn.jsdelivr.net/ev.js"></script>
-```
-
 Package Managers
 ```
 //Bower
