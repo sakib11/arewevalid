@@ -41,7 +41,7 @@ Or to make an element required
 </form>
 ```
 
-Here `data-enabled="yes"` and `data-type="text"` is manadatory.There are four values for `data-type=""` attribute.See below for further information.
+Here `data-enabled="yes"` and `data-type="text"` are manadatory.There are four values for `data-type=""` attribute.See below for further information.
 
 Then in your js file add the following code snippet:
 
