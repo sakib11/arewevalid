@@ -1,3 +1,9 @@
+/*
+ *  arewevalid v1.0.0
+ *  Copyright (c) 2015 Amanat doulah sakib
+ *  https://github.com/sakib11/arewevalid
+ */
+
 ;(function( $ ){
 
   $.fn.areweValid = function( options ) {  
